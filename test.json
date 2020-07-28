@@ -1,0 +1,10 @@
+[
+  {"_key":"1","english":"hello","spanish":"hola","factor":3,"schedule":3,"repeat":false},
+  {"_key":"2","english":"dog","spanish":"perro","factor":3,"schedule":5,"repeat":false},
+  {"_key":"3","english":"but","spanish":"pero","factor":3,"schedule":1,"repeat":false},
+  {"_key":"4","english":"goodbye","spanish":"adios","factor":3,"schedule":2,"repeat":false},
+  {"_key":"5","english":"thank you","spanish":"gracias","factor":3,"schedule":3,"repeat":false},
+  {"_key":"6","english":"why","spanish":"por que","factor":3,"schedule":4,"repeat":false},
+  {"_key":"7","english":"what","spanish":"que","factor":3,"schedule":2,"repeat":false},
+  {"_key":"8","english":"mirror","spanish":"el espejo","factor":3,"schedule":1,"repeat":false}
+]
