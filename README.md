@@ -2,8 +2,8 @@
 this is a language learning app that utilizes flashcards and spaced repition, it is an ongoing project in development.
 
 # System Requirements 
-*ArangoDB version 3.6.4
-*Node version 10.20.1
+* Item 1 ArangoDB version 3.6.4
+* Item 2 Node version 10.20.1
 *npm packet manager 
 
 # Running application 
