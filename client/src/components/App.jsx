@@ -13,7 +13,10 @@ class App extends React.Component {
  render() {
    return(
     <div id="page-contents">
-    <div id="flashcard-component">
+    <div id="side-bar">
+      <h1>level 1 placeholder</h1>
+    </div>
+    <div id="main-content">
       <FlashCard/>
     </div>
     </div>

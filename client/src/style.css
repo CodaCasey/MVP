@@ -1,17 +1,27 @@
 #page-contents{
+  display:flex;
+  height: 1000px;
   background-color: rgb(10, 8, 26);
 }
+#side-bar{
 
+  width:200px;
+  height: 100%;
+  background-color: darkkhaki;
+}
+
+#main-content{
+  margin-left: 5px;
+  flex-grow:1;
+  order:1;
+  background-color: darkred;
+
+
+}
 .flashcard-container{
-  position:fixed;
-  left:30%;
-  top: 20%;
-  width: 500px;
+  width:500px;
   height: 500px;
   background-color: rgb(40, 110, 190);
-  display: flex;
-  flex-direction: column;
-
 }
 
 
